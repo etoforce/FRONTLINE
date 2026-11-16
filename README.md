@@ -56,6 +56,7 @@ A first look at FRONTLINE's current playable prototype.
 - **Tactical Battlefields** — Rivers, bridges, hills, line-of-sight combat, and terrain-based navigation.
 - **Dynamic Environment** — Weather, day-night cycles, fog of war, vehicle tracks, and battlefield wreckage.
 - **Unit Experience** — Units gain combat experience and improve their effectiveness.
+- **Cinematic View (development build)** — Press **F11** in Skirmish or Sandbox to hide the interface and tactical markers while the battle continues. The view adds animated ground mist, and **Esc** or **F11** restores the regular view.
 
 ## Playable Maps
 
@@ -80,6 +81,8 @@ A replayable warfare mode featuring dynamic conflicts, evolving enemy armies, st
 Build your base, capture territory, and defeat an AI-controlled opponent in real-time battles.
 
 ## Development Roadmap
+
+See the [roadmap](ROADMAP.md) for development priorities and the [changelog](CHANGELOG.md) for verified changes.
 
 Current priorities:
 
