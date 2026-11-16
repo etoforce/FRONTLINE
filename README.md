@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img src="Teal%20Frontline%20Tank%20Emblem.png" width="200" alt="FRONTLINE Logo">
+</p>
+
+<p align="center">
+  <strong>BUILD. COMMAND. CONQUER.</strong>
+</p>
 # FRONTLINE
 
 ### Command the battlefield.
