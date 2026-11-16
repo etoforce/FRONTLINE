@@ -29,6 +29,23 @@ Instead of manually controlling every soldier, players can issue strategic order
 
 Direct control remains available whenever tactical intervention is needed.
 
+
+## Actual Gameplay — Pre-Alpha 0.39.0
+
+A first look at FRONTLINE's current playable prototype.
+
+### Battlefield Overview
+![FRONTLINE Gameplay](ScreenShot.png)
+
+### Military Operations
+![FRONTLINE Combat](ScreenShot%202.png)
+
+### Large-Scale Engagements
+![FRONTLINE Battle](ScreenShot%203.png)
+
+*Screenshots captured from the actual game. Work in progress.*
+
+---
 ## Current Features
 
 - **Autonomous Armies** — Organized offensives, defense, rapid attacks, and sieges.
